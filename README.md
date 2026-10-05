@@ -124,15 +124,13 @@
 
 ### 4. Меры DAX
 Создадим меры:
-- "Факт":
-<img width="534" height="422" alt="image" src="https://github.com/user-attachments/assets/00fca6ad-61b0-4334-af85-0b04cf770409" />
-- "План":
-<img width="799" height="630" alt="image" src="https://github.com/user-attachments/assets/20912f30-5848-442c-9f39-72601f242588" />
-- "Отклонение":
-<img width="804" height="643" alt="image" src="https://github.com/user-attachments/assets/f9f9521d-7f6b-41d3-ada2-fa5f24c975f8" />
+- "Факт": =SUM(FactRevenuePrepared[Выручка])
+- "План": =SUM(PlanRevenuePrepared[Значение])
+- "Отклонение": =[Факт]/[План]-1
 
 ### 5. Сводная таблица
 - Создаем сводную таблицу
+- Задаем условное форматирование
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/d2a217aa-7349-427c-80c6-607b370f63ab" />
 
 
