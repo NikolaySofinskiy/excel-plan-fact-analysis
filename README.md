@@ -28,7 +28,7 @@
 
 План представлен в **матричном (широком) формате**: месяцы — в столбцах.
 
-<img width="1898" height="638" alt="image" src="https://github.com/user-attachments/assets/3f3f2562-ed5c-47f5-ac90-1ea2f037716b" />
+<img width="1217" height="386" alt="image" src="https://github.com/user-attachments/assets/1fb9adcb-0b1b-4b34-b38e-b4f61ea0343d" />
 
 **Особенности:**
 - Месяцы в столбцах (Январь–Декабрь).
