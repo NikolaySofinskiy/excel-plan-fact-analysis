@@ -27,6 +27,7 @@
 ### 1. План продаж (`plan_revenue.xlsx`)
 
 План представлен в **матричном (широком) формате**: месяцы — в столбцах.
+
 <img width="1898" height="638" alt="image" src="https://github.com/user-attachments/assets/3f3f2562-ed5c-47f5-ac90-1ea2f037716b" />
 
 **Особенности:**
@@ -40,7 +41,8 @@
 ### 2. Факт продаж (`fact_revenue.xlsx`)
 
 Факт представлен в **длинном формате**: одна строка = одна продажа.
-<img width="1440" height="778" alt="image" src="https://github.com/user-attachments/assets/17865e3f-fe63-4d3a-b253-12cf4665335f" />
+
+<img width="1739" height="736" alt="image" src="https://github.com/user-attachments/assets/7f0bdc9d-c5e5-4a33-8273-06dd9ea16230" />
 
 **Особенности:**
 - Дата в формате `ДД.ММ.ГГГГ`.
