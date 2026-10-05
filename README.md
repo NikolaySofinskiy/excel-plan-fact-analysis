@@ -124,7 +124,8 @@
 ### 5. Сводная таблица
 - Создаем сводную таблицу
 - Задаем условное форматирование
-<img width="1181" height="368" alt="image" src="https://github.com/user-attachments/assets/df53590a-ac35-4657-87d7-8f456054f878" />
+<img width="1804" height="597" alt="image" src="https://github.com/user-attachments/assets/e7221e86-cd64-46f0-95b5-0e46024db5b9" />
+
 
 
 
