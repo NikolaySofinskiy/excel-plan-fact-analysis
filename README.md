@@ -1,4 +1,4 @@
-# Excel Plan-Fact Analysis
+# Excel Plan-fact analysis
 
 План-факт анализ выручки в Excel по модели данных с использованием Power Query, Power Pivot, DAX и сводной таблицы.
 
