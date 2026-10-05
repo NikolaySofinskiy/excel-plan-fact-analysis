@@ -117,12 +117,15 @@
 Создадим меры:
 - "Факт": =SUM(FactRevenuePrepared[Выручка])
 - "План": =SUM(PlanRevenuePrepared[Значение])
-- "Отклонение": =[Факт]/[План]-1
+- "Отклонение, руб.": =SUM(FactRevenuePrepared[Выручка])-SUM(PlanRevenuePrepared[Значение])
+- "Отклонение, %": =DIVIDE([Факт];[План])-1
+- "% выполнения плана": =DIVIDE([Факт];[План])
 
 ### 5. Сводная таблица
 - Создаем сводную таблицу
 - Задаем условное форматирование
-<img width="1780" height="558" alt="image" src="https://github.com/user-attachments/assets/846f9d1b-20e6-46f5-859f-42c5e3f9ddbf" />
+<img width="1181" height="368" alt="image" src="https://github.com/user-attachments/assets/df53590a-ac35-4657-87d7-8f456054f878" />
+
 
 
 
