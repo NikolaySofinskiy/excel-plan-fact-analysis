@@ -118,7 +118,6 @@
 - Создаем таблицу дат для всей модели - "Календарь"
 - Создаем связи в модели данных
 <img width="1490" height="796" alt="image" src="https://github.com/user-attachments/assets/145f257d-9676-43c8-9f1b-591fb7893b79" />
-<img width="1151" height="601" alt="image" src="https://github.com/user-attachments/assets/c8ac169d-65b1-4d68-9868-03b92cc62b0b" />
 
 - Получилась схема «звезда»:
   - **Таблицы фактов:** `FactRevenuePrepared`, `PlanRevenuePrepared`.
